@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhangpetergo
 - 👀 I’m interested in golang
-- 🌱 I’m currently learning web3 clockchain
+- 🌱 I’m currently learning web3 blockchain
 - 📫 How to reach me zhangpetergo@gmail.com
 
 <!---
